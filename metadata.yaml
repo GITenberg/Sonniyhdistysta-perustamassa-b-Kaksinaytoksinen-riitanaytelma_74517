@@ -1,0 +1,29 @@
+_repo: Sonniyhdistysta-perustamassa-b-Kaksinaytoksinen-riitanaytelma_74517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kataja, Väinö
+    alias: Kataja, Vaino
+    birthdate: 1867
+    deathdate: 1914
+    gutenberg_agent_id: '5390'
+    url: http://www.gutenberg.org/2009/agents/5390
+    wikipedia: https://fi.wikipedia.org/wiki/V%C3%A4in%C3%B6_Kataja
+description: ''
+gutenberg_issued: '2024-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74517'
+language: fi
+pgterms:marc905: 20240920003951kataja
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aKuopio :$bU. W. Telén & Co., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sonniyhdistystä perustamassa : $b Kaksinäytöksinen riitanäytelmä'
+url: http://www.gutenberg.org/ebooks/74517
